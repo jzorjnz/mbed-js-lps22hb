@@ -1,0 +1,26 @@
+{
+  "name": "mbed-js-lps22hb",
+  "version": "1.0.0",
+  "description": " LPS22HB library with wrappers for Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-zeeshan/mbed-js-lps22hb.git"
+  },
+  "keywords": [
+    "mbed",
+    "js",
+    "lps22hb",
+    "st",
+    "mbed-os"
+  ],
+  "author": "ST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-zeeshan/mbed-js-lps22hb/issues"
+  },
+  "homepage": "https://github.com/syed-zeeshan/mbed-js-lps22hb#readme"
+}
